@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Cooper;
+    src: url(CooperBlackStd.otf);
+}
+
+@font-face {
+    font-family: Consolas;
+    src: url(CONSOLA.TTF);
+}
+
+h1 {
+    font-family: Cooper;
+    font-size: 96px;
+    color:#073267;
+}
+
+p {
+    font-family: Consolas;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: Cooper;
+    font-size: 64px;
+    color:#073267;
+}
